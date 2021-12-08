@@ -1,3 +1,7 @@
+#LeighTrinity
+#Dec 8 2021
+
+
 #Start virus
 import sys
 import glob
